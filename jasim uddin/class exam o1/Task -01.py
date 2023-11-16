@@ -1,0 +1,6 @@
+employee_id= int(input("Enter your ID: "))
+work_hour=int(input("Enter Work hour: "))
+per_hour=int(input("Enter Your salary per hour: "))
+salary=(work_hour*per_hour)
+print("ID-", employee_id)
+print("salary- ", salary)

@@ -1,0 +1,6 @@
+n=int(input("Number of times to print: "))
+i=1
+while i<=n:
+    print(i)
+    i=i+2
+print(" Print Complete.")
